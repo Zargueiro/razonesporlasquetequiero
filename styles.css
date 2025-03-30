@@ -1,0 +1,45 @@
+body {
+    font-family: georgia, serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #ffe4e1;
+}
+.container {
+    width: 90%;
+    margin: auto;
+}
+.hero {
+    padding: 20px;
+}
+.hero img {
+    width: 100%;
+    border: 10px;
+}
+.intro-message {
+    padding: 20px;
+    font-size: 20px;
+    font-style: italic;
+    color: #444;
+}
+.gallery img {
+    width: 80%;
+    max-width: 300px;
+    border-radius: 10px;
+}
+.reasons {
+    padding: 20px;
+}
+.reason {
+    margin-bottom: 20px;
+}
+.reason img {
+    width: 80%;
+    max-width: 300px;
+    border-radius: 10px;
+}
+.message {
+    padding: 20px;
+    font-size: 18px;
+    color: #333;
+}
